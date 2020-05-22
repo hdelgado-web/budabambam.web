@@ -12,8 +12,10 @@ font-family: 'Open Sans Condensed', sans-serif;
   body {
     margin: 0;
     height: 100%;
-    background-image: url("resources/geometric-leaves.png");
-
+    background-image: url("resources/doodleback3.png");
+    background-size: 400px;
+    background-repeat: round;
+    background-color: white;
   }
 
   main {
@@ -701,14 +703,14 @@ p.ism-badge a.ism-link:hover {
           border-radius: 80%;
           border-color: #74c7b5;
           border-width: 10px;
-          
+
       }
   .prod-desc {
           margin: 30px;
           text-align: justify;
           font-size: 25px;
           font-family: 'Open Sans Condensed', sans-serif;
-      }
+  }
 
  /* Galeria productos */
   .gallery-container {
