@@ -44,7 +44,7 @@ font-family: 'Open Sans Condensed', sans-serif;
   }
 
   .topnav a:hover {
-  background-color: #e0b340;
+  background-color: #c9617c;
   color: white;
   }
 
@@ -53,7 +53,7 @@ font-family: 'Open Sans Condensed', sans-serif;
   }
 
   .topnav a.active {
-  background-color: #00ad93;
+  background-color: #f0d641;
   color: white;
   }
 
@@ -93,7 +93,7 @@ font-family: 'Open Sans Condensed', sans-serif;
     opacity: 0;
     display: block;
     position: inherit;
-    background-color: #74c7b5;
+    background-color: #aae3ed;
     margin-left: 304px;
     margin-top: 0px;
     min-width: 125px;
@@ -136,8 +136,8 @@ font-family: 'Open Sans Condensed', sans-serif;
     bottom: 0;
     left: 0;
     width: 100%;
-    background-color: #74c7b5;
-    color: black;
+    background-color: #314672;
+    color: white;
     text-align: center;
     font-family: 'Loved by the King', bold;
     font-size: 25px;
@@ -701,7 +701,7 @@ p.ism-badge a.ism-link:hover {
           height: 400px;
           border-style: solid;
           border-radius: 80%;
-          border-color: #74c7b5;
+          border-color: #aae3ed;
           border-width: 10px;
 
       }
@@ -741,7 +741,7 @@ p.ism-badge a.ism-link:hover {
 
   .prodpicoverlay1 {
     position: absolute;
-    background-color: #74c7b5;
+    background-color: #f0d641;
     height: 200px;
     width: 200px;
     margin-top: 0;
@@ -770,7 +770,7 @@ p.ism-badge a.ism-link:hover {
 
   .prodpicoverlay2 {
     position: absolute;
-    background-color: #74c7b5;
+    background-color: #c9617c;
     height: 200px;
     width: 200px;
     margin-top: 20px;
@@ -801,7 +801,7 @@ p.ism-badge a.ism-link:hover {
 
   .prodpicoverlay3 {
     position: absolute;
-    background-color: #74c7b5;
+    background-color: #aae3ed;
     height: 200px;
     width: 200px;
     margin-top: 20px;
