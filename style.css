@@ -712,6 +712,9 @@ p.ism-badge a.ism-link:hover {
           font-family: 'Open Sans Condensed', sans-serif;
   }
 
+  .prod-desc ul {
+  padding-left: 500px;
+  }
  /* Galeria productos */
   .gallery-container {
     display: flex;
@@ -720,6 +723,9 @@ p.ism-badge a.ism-link:hover {
     font-family: 'Amatic SC', cursive;
     font-size: 30px;
     line-height: 200px;
+    width: 60%;
+    margin-left: 17.5%;
+    margin-right: 20%;
   }
 
   .prodpic1wrap {
@@ -812,6 +818,68 @@ p.ism-badge a.ism-link:hover {
   }
 
   .prodpicoverlay3:hover {
+    opacity: 0.8;
+    cursor: pointer;
+  }
+
+  .prodpic4wrap {
+    position: relative;
+    height: 200px;
+    width: 200px;
+  }
+
+  .prodpic4 {
+    position: absolute;
+    height: auto;
+    width: 200px;
+    margin-left: 100px;
+    margin-top: 20px;
+  }
+
+  .prodpicoverlay4 {
+    position: absolute;
+    background-color: #314672;
+    height: 200px;
+    width: 200px;
+    margin-top: 20px;
+    margin-left: 100px;
+    vertical-align: middle;
+    text-align: center;
+    opacity: 0;
+  }
+
+  .prodpicoverlay4:hover {
+    opacity: 0.8;
+    cursor: pointer;
+  }
+
+  .prodpic5wrap {
+    position: relative;
+    height: 200px;
+    width: 200px;
+  }
+
+  .prodpic5 {
+    position: absolute;
+    height: auto;
+    width: 200px;
+    margin-left: 140px;
+    margin-top: 20px;
+  }
+
+  .prodpicoverlay5 {
+    position: absolute;
+    background-color: #74c7b5;
+    height: 200px;
+    width: 200px;
+    margin-top: 20px;
+    margin-left: 140px;
+    vertical-align: middle;
+    text-align: center;
+    opacity: 0;
+  }
+
+  .prodpicoverlay5:hover {
     opacity: 0.8;
     cursor: pointer;
   }
