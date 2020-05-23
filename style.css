@@ -722,6 +722,7 @@ p.ism-badge a.ism-link:hover {
     position: absolute;
     font-family: 'Amatic SC', cursive;
     font-size: 30px;
+    font-color: black;
     line-height: 200px;
     width: 60%;
     margin-left: 17.5%;
@@ -747,6 +748,7 @@ p.ism-badge a.ism-link:hover {
 
   .prodpicoverlay1 {
     position: absolute;
+    color: black;
     background-color: #f0d641;
     height: 200px;
     width: 200px;
@@ -776,6 +778,7 @@ p.ism-badge a.ism-link:hover {
 
   .prodpicoverlay2 {
     position: absolute;
+    color: white;
     background-color: #c9617c;
     height: 200px;
     width: 200px;
@@ -807,6 +810,7 @@ p.ism-badge a.ism-link:hover {
 
   .prodpicoverlay3 {
     position: absolute;
+    color: black;
     background-color: #aae3ed;
     height: 200px;
     width: 200px;
@@ -838,6 +842,7 @@ p.ism-badge a.ism-link:hover {
 
   .prodpicoverlay4 {
     position: absolute;
+    color: white;
     background-color: #314672;
     height: 200px;
     width: 200px;
@@ -869,6 +874,7 @@ p.ism-badge a.ism-link:hover {
 
   .prodpicoverlay5 {
     position: absolute;
+    color: black;
     background-color: #74c7b5;
     height: 200px;
     width: 200px;
