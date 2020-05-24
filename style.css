@@ -870,7 +870,7 @@ p.ism-badge a.ism-link:hover {
     position: absolute;
     height: auto;
     width: 200px;
-    margin-left: 110px;
+    margin-left: 120px;
     margin-top: 240px;
   }
 
@@ -881,7 +881,7 @@ p.ism-badge a.ism-link:hover {
     height: 200px;
     width: 200px;
     margin-top: 240px;
-    margin-left: 110px;
+    margin-left: 120px;
     vertical-align: middle;
     text-align: center;
     opacity: 0;
@@ -896,7 +896,7 @@ p.ism-badge a.ism-link:hover {
     position: absolute;
     height: auto;
     width: 200px;
-    margin-left: 350px;
+    margin-left: 360px;
     margin-top: 240px;
   }
 
@@ -907,7 +907,7 @@ p.ism-badge a.ism-link:hover {
     height: 200px;
     width: 200px;
     margin-top: 240px;
-    margin-left: 350px;
+    margin-left: 360px;
     vertical-align: middle;
     text-align: center;
     opacity: 0;
@@ -922,7 +922,7 @@ p.ism-badge a.ism-link:hover {
     position: absolute;
     height: auto;
     width: 200px;
-    margin-left: 590px;
+    margin-left: 600px;
     margin-top: 240px;
   }
 
@@ -934,7 +934,7 @@ p.ism-badge a.ism-link:hover {
     width: 200px;
     padding: 0px;
     margin-top: 240px;
-    margin-left: 590px;
+    margin-left: 600px;
     vertical-align: middle;
     text-align: center;
     opacity: 0;
@@ -949,7 +949,7 @@ p.ism-badge a.ism-link:hover {
     position: absolute;
     height: auto;
     width: 200px;
-    margin-left: 830px;
+    margin-left: 840px;
     margin-top: 240px;
   }
 
@@ -961,7 +961,7 @@ p.ism-badge a.ism-link:hover {
     width: 200px;
     padding: 0px;
     margin-top: 240px;
-    margin-left: 830px;
+    margin-left: 840px;
     vertical-align: middle;
     text-align: center;
     opacity: 0;
