@@ -33,9 +33,9 @@ font-family: 'Open Sans Condensed', sans-serif;
     padding-bottom: 80px;
   }
   .topnav {
+    width: 100%;
     background-color: #74c7b5;
     position: fixed;
-    width: 100%;
     overflow: hidden;
     top: 0;
     font-family: 'Loved by the King', bold;
@@ -1014,4 +1014,10 @@ label {
   background-color: #f2f2f2;
   padding: 20px;
   height: 100%
+}
+
+/*about page*/
+
+.about {
+  width: 100%;
 }
