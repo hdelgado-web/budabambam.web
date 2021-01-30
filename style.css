@@ -678,12 +678,12 @@ p.ism-badge a.ism-link:hover {
   from {
     text-align: right;
     width: 300%;
-    background: -webkit-linear-gradient(black, #ffffff);
+    color: -webkit-linear-gradient(black, #ffffff);
   }
   to {
     text-align: center;
     width: 100%;
-    background: -webkit-linear-gradient(black, #74c7b5);
+    color: -webkit-linear-gradient(black, #74c7b5);
   }
 }
   .prodtitle {
