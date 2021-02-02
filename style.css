@@ -1022,5 +1022,6 @@ label {
 
 .about {
   height: 600px;
-  align: center;
+  border-radius: 80%;
+  margin-left: 50%;
 }
